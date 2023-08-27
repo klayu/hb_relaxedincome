@@ -15,7 +15,7 @@ cd ../gh-pages && git add --all && git commit -m "gh-pages branch `date`"
 echo "Pushing to github gh-pages branch"
 git push origin gh-pages
 # HUGO_ENV=production  hugo # -t "ananke"
-echo 'www.relaxedincome.com' >> public/CNAME
+echo 'www.relaxedincome.com' >> publicTmp/CNAME
 
 echo "Updating builder branch"
 cd ../builder && rm -rf publicTmp && git add --all && git commit -m "Saving to builder branch"
