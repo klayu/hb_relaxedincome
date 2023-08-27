@@ -1,4 +1,4 @@
-repository=gh_relaxedincome
+repository=hb_relaxedincome
 
 echo "Deleting old publication"
 echo "Hint : sudo nano ~/.bashrc and export gh_token= and export gh_token=gh_username should already have been done"
