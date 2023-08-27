@@ -25,7 +25,7 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
   <label>Email</label>
         <input type="email" placeholder="Email" class="form-input" name="entry.1721161526" required>
 
-<input type="hidden" placeholder="Domain" class="form-input" name="entry.864329032" value="TBD" >
+<input type="hidden" placeholder="Domain" class="form-input" name="entry.864329032" value="relaxedincome.com" >
 
    <button type="submit">Subscribe</button>
 </form>
