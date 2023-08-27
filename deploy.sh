@@ -1,8 +1,14 @@
-#!/bin/sh
+repository=gh_relaxedincome
 
 echo "Deleting old publication"
+echo "Hint : sudo nano ~/.bashrc and export gh_token= and export gh_token=gh_username should already have been done"
+echo GitHub User : $gh_username
+echo GitHub Pass : $gh_token
 git config --global push.autoSetupRemote true
-#git remote add origin https://github.com/user/repo2.git
+git remote remove origin
+git remote add origin https://$gh_username:$gh_token@github.com/klayu/$repository.git
+git remote -v
+
 rm -f hugo.toml
 rm -rf publicTmp
 mkdir publicTmp
