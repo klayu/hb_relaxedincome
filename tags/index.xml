@@ -1,72 +1,297 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on BLOG : hb_relaxedincome</title>
-    <link>https://klayu.github.io/hb_relaxedincome/tags/</link>
-    <description>Recent content in Tags on BLOG : hb_relaxedincome</description>
+    <title>Tags on Relaxed Income</title>
+    <link>https://www.relaxedincome.com/tags/</link>
+    <description>Recent content in Tags on Relaxed Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://klayu.github.io/hb_relaxedincome/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.relaxedincome.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Income</title>
+      <link>https://www.relaxedincome.com/tags/income/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/income/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Savings</title>
+      <link>https://www.relaxedincome.com/tags/savings/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/savings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investing</title>
+      <link>https://www.relaxedincome.com/tags/investing/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/investing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Passive Income</title>
+      <link>https://www.relaxedincome.com/tags/non-passive-income/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/non-passive-income/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive Income</title>
+      <link>https://www.relaxedincome.com/tags/passive-income/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/passive-income/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annualized Base Salary</title>
+      <link>https://www.relaxedincome.com/tags/annualized-base-salary/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/annualized-base-salary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compenstaion</title>
+      <link>https://www.relaxedincome.com/tags/compenstaion/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/compenstaion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artists</title>
+      <link>https://www.relaxedincome.com/tags/artists/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/artists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entrepreneurship</title>
+      <link>https://www.relaxedincome.com/tags/entrepreneurship/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finance</title>
+      <link>https://www.relaxedincome.com/tags/finance/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>financial literacy</title>
+      <link>https://www.relaxedincome.com/tags/financial-literacy/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/financial-literacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H1B Visa</title>
+      <link>https://www.relaxedincome.com/tags/h1b-visa/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/h1b-visa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monetization</title>
+      <link>https://www.relaxedincome.com/tags/monetization/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/monetization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>money-making</title>
+      <link>https://www.relaxedincome.com/tags/money-making/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/money-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nurses</title>
+      <link>https://www.relaxedincome.com/tags/nurses/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/nurses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retirement</title>
+      <link>https://www.relaxedincome.com/tags/retirement/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/retirement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scams</title>
+      <link>https://www.relaxedincome.com/tags/scams/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/scams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>side hustles</title>
+      <link>https://www.relaxedincome.com/tags/side-hustles/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/side-hustles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interesting calculators</title>
+      <link>https://www.relaxedincome.com/tags/interesting-calculators/</link>
+      <pubDate>Sun, 16 Apr 2023 22:09:48 -0700</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/interesting-calculators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>saving calculators</title>
+      <link>https://www.relaxedincome.com/tags/saving-calculators/</link>
+      <pubDate>Sun, 16 Apr 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/saving-calculators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>credit cards</title>
+      <link>https://www.relaxedincome.com/tags/credit-cards/</link>
+      <pubDate>Sat, 08 Apr 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/credit-cards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dividend investing</title>
+      <link>https://www.relaxedincome.com/tags/dividend-investing/</link>
+      <pubDate>Sat, 08 Apr 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/dividend-investing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medium safe investments</title>
+      <link>https://www.relaxedincome.com/tags/medium-safe-investments/</link>
+      <pubDate>Sat, 08 Apr 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/medium-safe-investments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>passive income calculators</title>
+      <link>https://www.relaxedincome.com/tags/passive-income-calculators/</link>
+      <pubDate>Sat, 08 Apr 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/passive-income-calculators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>super safe investments</title>
+      <link>https://www.relaxedincome.com/tags/super-safe-investments/</link>
+      <pubDate>Sat, 08 Apr 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/super-safe-investments/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>emoji</title>
-      <link>https://klayu.github.io/hb_relaxedincome/tags/emoji/</link>
+      <link>https://www.relaxedincome.com/tags/emoji/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://klayu.github.io/hb_relaxedincome/tags/emoji/</guid>
+      <guid>https://www.relaxedincome.com/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://klayu.github.io/hb_relaxedincome/tags/css/</link>
+      <link>https://www.relaxedincome.com/tags/css/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://klayu.github.io/hb_relaxedincome/tags/css/</guid>
+      <guid>https://www.relaxedincome.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://klayu.github.io/hb_relaxedincome/tags/html/</link>
+      <link>https://www.relaxedincome.com/tags/html/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://klayu.github.io/hb_relaxedincome/tags/html/</guid>
+      <guid>https://www.relaxedincome.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://klayu.github.io/hb_relaxedincome/tags/markdown/</link>
+      <link>https://www.relaxedincome.com/tags/markdown/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://klayu.github.io/hb_relaxedincome/tags/markdown/</guid>
+      <guid>https://www.relaxedincome.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://klayu.github.io/hb_relaxedincome/tags/privacy/</link>
+      <link>https://www.relaxedincome.com/tags/privacy/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://klayu.github.io/hb_relaxedincome/tags/privacy/</guid>
+      <guid>https://www.relaxedincome.com/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://klayu.github.io/hb_relaxedincome/tags/shortcodes/</link>
+      <link>https://www.relaxedincome.com/tags/shortcodes/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://klayu.github.io/hb_relaxedincome/tags/shortcodes/</guid>
+      <guid>https://www.relaxedincome.com/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://klayu.github.io/hb_relaxedincome/tags/text/</link>
+      <link>https://www.relaxedincome.com/tags/text/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://klayu.github.io/hb_relaxedincome/tags/text/</guid>
+      <guid>https://www.relaxedincome.com/tags/text/</guid>
       <description></description>
     </item>
     

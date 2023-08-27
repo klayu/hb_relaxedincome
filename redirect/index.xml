@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redirects on Relaxed Income</title>
+    <link>https://www.relaxedincome.com/redirect/</link>
+    <description>Recent content in Redirects on Relaxed Income</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://www.relaxedincome.com/redirect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.relaxedincome.com/redirect/tr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/redirect/tr/</guid>
+      <description>https://scripteverything.com/hugo-redirect-301-layout/ DOES NOT WORK YET - 30th July 2023 CONTENT NOT RENDERED
+Only insert details here if you want to enter any additional detail about the purpose of the redirect, otherwise you can just leave it blank.</description>
+    </item>
+    
+  </channel>
+</rss>
